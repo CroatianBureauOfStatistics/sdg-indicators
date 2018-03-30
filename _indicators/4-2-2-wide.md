@@ -1,4 +1,4 @@
-﻿---
+---
 title: >-
   Participation  rate  in  organized  learning  (one  year  before  the  official  primary  entry  age),  by  sex
 permalink: /4-2-2-wide/

@@ -1,4 +1,4 @@
-﻿---
+---
 target_id: '4.2'
 title: >-
   Participation  rate  in  organized  learning  (one  year  before  the  official  primary  entry  age),  by  sex
