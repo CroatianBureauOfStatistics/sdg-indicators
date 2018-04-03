@@ -1,5 +1,5 @@
 ---
-title: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss
+title: Zaštititi, obnoviti i promicati održivo korištenje kopnenih ekosustava, održivo upravljati šumama, suzbiti dezertifikaciju, zaustaviti degradaciju tla te spriječiti uništavanje biološke raznolikosti
 permalink: /life-on-land/
 sdg_goal: 15
 layout: goal

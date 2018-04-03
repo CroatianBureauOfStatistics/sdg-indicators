@@ -1,5 +1,5 @@
 ---
-title: Ensure healthy lives and promote well-being for all at all ages
+title: Osigurati zdrav život i promicati blagostanje za ljude svih generacija
 permalink: /good-health-and-well-being/
 sdg_goal: 3
 layout: goal

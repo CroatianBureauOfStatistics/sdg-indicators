@@ -1,5 +1,5 @@
 ---
-title: Strengthen the means of implementation and revitalize the global partnership for sustainable development
+title: Ojačati načine provedbe te oživjeti globalno partnerstvo za održivi razvoj
 permalink: /partnerships-for-the-goals/
 sdg_goal: 17
 layout: goal

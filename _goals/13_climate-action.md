@@ -1,5 +1,5 @@
 ---
-title: Take urgent action to combat climate change and its impacts.
+title: Poduzeti hitne akcije u borbi protiv klimatskih promjena i njenih posljedica
 permalink: /climate-action/
 sdg_goal: 13
 layout: goal

@@ -1,5 +1,5 @@
 ---
-title: End hunger, achieve food security and improved nutrition and promote sustainable agriculture
+title: Iskorijeniti glad, postići sigurnost hrane i poboljšanu ishranu te promicati održivu poljoprivredu
 permalink: /zero-hunger/
 sdg_goal: 2
 layout: goal
