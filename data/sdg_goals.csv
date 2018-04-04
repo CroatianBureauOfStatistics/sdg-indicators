@@ -1,18 +1,18 @@
 goal,title,short,colorInfo/hex,colorInfo/rgb/0,colorInfo/rgb/1,colorInfo/rgb/2
-1,Iskorijeniti siromaštvo svuda i u svim oblicima,TESTESTEST,#e5243b,229,36,59
-2,"Iskorijeniti glad, postići sigurnost hrane i poboljšanu ishranu te promicati održivu poljoprivredu",Zero Hunger,#e5b735,229,183,53
-3,Osigurati zdrav život i promicati blagostanje za ljude svih generacija,Good Health and Well-being,#4c9f38,76,159,56
-4,Osigurati uključivo i kvalitetno obrazovanje te promicati mogućnosti cjeloživotnog učenja za sve,Quality Education,#c5192d,197,25,45
-5,Postizanje ravnopravnosti spolova i osnaživanje žena i djevojčica,Gender Equality,#ff3a21,255,58,33
-6,"Osigurati pristup pitkoj vodi za sve, održivo upravljati vodama te osigurati higijenske uvjete za sve",Clean water and sanitation,#26bde2,38,189,226
-7,"Osigurati pristup pouzdanoj, održivoj i modernoj energiji po pristupačnim cijenama za sve",Affordable and clean energy,#fcc30b,252,195,11
-8,"Promicati uključiv i održiv ekonomski rast, punu i produktivnu zaposlenost te dostojanstven rad za sve",Decent jobs and economic growth,#a21942,162,25,66
-9,"Izgraditi prilagodljivu infrastrukturu, promicati uključivu i održivu industrijalizaciju i poticati inovativnost","Industry, innovation and infrastructure",#fd6925,253,105,37
-10,Smanjiti nejednakost unutar i između zemalja,Reduced inequalities,#dd1367,221,19,103
-11,"Učiniti gradove i naselja uključivim, sigurnim, prilagodljivim i održivim",Sustainable Cities & Communities,#fd9d24,253,157,36
-12,Osigurati održive oblike potrošnje i proizvodnje,Responsible consumption and production,#c9992d,201,153,45
-13,Poduzeti hitne akcije u borbi protiv klimatskih promjena i njenih posljedica,Climate action,#3f7e44,63,126,68
-14,"Očuvati i održivo koristiti oceane, mora i morske resurse za održiv razvoj",Life below water,#0a97d9,10,151,217
-15,"Zaštititi, obnoviti i promicati održivo korištenje kopnenih ekosustava, održivo upravljati šumama, suzbiti dezertifikaciju, zaustaviti degradaciju tla te spriječiti uništavanje biološke raznolikosti",Life on land,#56c02b,86,192,43
-16,"Promicati miroljubiva i uključiva društva za održivi razvoj, osigurati pravdu za sve i izgraditi učinkovite, odgovorne i uključive institucije na svim razinama",Peace and justice - strong institutions,#00689d,0,104,157
-17,Ojačati načine provedbe te oživjeti globalno partnerstvo za održivi razvoj,Partnerships for the goals,#19486a,25,72,106
+1,Iskorijeniti siromaštvo svuda i u svim oblicima,Svijet bez siromaštva,#e5243b,229,36,59
+2,"Iskorijeniti glad, postići sigurnost hrane i poboljšanu ishranu te promicati održivu poljoprivredu",Svijet bez gladi,#e5b735,229,183,53
+3,Osigurati zdrav život i promicati blagostanje za ljude svih generacija,Zdravlje i blagostanje,#4c9f38,76,159,56
+4,Osigurati uključivo i kvalitetno obrazovanje te promicati mogućnosti cjeloživotnog učenja za sve,Kvalitetno obrazovanje,#c5192d,197,25,45
+5,Postizanje ravnopravnosti spolova i osnaživanje žena i djevojčica,Rodna ravnopravnost,#ff3a21,255,58,33
+6,"Osigurati pristup pitkoj vodi za sve, održivo upravljati vodama te osigurati higijenske uvjete za sve",Čista voda i sanitarni uvjeti,#26bde2,38,189,226
+7,"Osigurati pristup pouzdanoj, održivoj i modernoj energiji po pristupačnim cijenama za sve",Pristupačna energija iz čistih izvora,#fcc30b,252,195,11
+8,"Promicati uključiv i održiv ekonomski rast, punu i produktivnu zaposlenost te dostojanstven rad za sve",Dostojanstven rad i ekonomski rast,#a21942,162,25,66
+9,"Izgraditi prilagodljivu infrastrukturu, promicati uključivu i održivu industrijalizaciju i poticati inovativnost","Industrija, inovacije i infrastruktura",#fd6925,253,105,37
+10,Smanjiti nejednakost unutar i između zemalja,Smanjenje nejednakosti,#dd1367,221,19,103
+11,"Učiniti gradove i naselja uključivim, sigurnim, prilagodljivim i održivim",Odgovorna potrošnja i proizvodnja,#fd9d24,253,157,36
+12,Osigurati održive oblike potrošnje i proizvodnje,Odgovorna potrošnja i proizvodnja,#c9992d,201,153,45
+13,Poduzeti hitne akcije u borbi protiv klimatskih promjena i njenih posljedica,Zaštita klime,#3f7e44,63,126,68
+14,"Očuvati i održivo koristiti oceane, mora i morske resurse za održiv razvoj",Očuvanje vodenog svijeta,#0a97d9,10,151,217
+15,"Zaštititi, obnoviti i promicati održivo korištenje kopnenih ekosustava, održivo upravljati šumama, suzbiti dezertifikaciju, zaustaviti degradaciju tla te spriječiti uništavanje biološke raznolikosti",Očuvanje života na zemlji,#56c02b,86,192,43
+16,"Promicati miroljubiva i uključiva društva za održivi razvoj, osigurati pravdu za sve i izgraditi učinkovite, odgovorne i uključive institucije na svim razinama",Mir, pravda i snažne institucije,#00689d,0,104,157
+17,Ojačati načine provedbe te oživjeti globalno partnerstvo za održivi razvoj,Partnerstvom do ciljeva,#19486a,25,72,106
