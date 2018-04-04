@@ -3,7 +3,7 @@ translation_id: header
 en:
   site-title: "RH portal indikatora Ciljeva održivog razvoja (SDG)"
   disclaimer-wip: ""
-  nav-reporting-status : "stanje izvještavanja"
+  nav-reporting-status : "Stanje izvještavanja"
   nav-statistics : "Indikatori"
  
 es:
