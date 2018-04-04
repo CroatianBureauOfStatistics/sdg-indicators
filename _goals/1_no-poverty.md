@@ -1,6 +1,6 @@
 ---
 title: Iskorijeniti siromaštvo svuda i u svim oblicima
-permalink: /no-poverty/
+permalink: /svijet-bez-siromaštva/
 sdg_goal: 1
 layout: goal
 ---

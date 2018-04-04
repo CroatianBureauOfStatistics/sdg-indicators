@@ -1,6 +1,6 @@
 ---
 title: Ojačati načine provedbe te oživjeti globalno partnerstvo za održivi razvoj
-permalink: /partnerships-for-the-goals/
+permalink: /partnerstvom-do-ciljeva/
 sdg_goal: 17
 layout: goal
 ---

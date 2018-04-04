@@ -1,6 +1,6 @@
 ---
 title: Promicati uključiv i održiv ekonomski rast, punu i produktivnu zaposlenost te dostojanstven rad za sve
-permalink: /decent-jobs-and-economic-growth/
+permalink: /dostojanstven-rad-i-ekonomski-rast/
 sdg_goal: 8
 layout: goal
 ---
