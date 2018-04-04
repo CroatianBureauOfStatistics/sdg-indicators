@@ -5,8 +5,7 @@ en:
   disclaimer-wip: "This site is a work in progress"
   nav-reporting-status : "Reporting Status"
   nav-statistics : "U.S. Statistics"
-  nav-training : "Training Materials"
-  nav-faq : "FAQs"
+ 
 es:
   site-title: "Estadísticas Nacionales de USA para los Objetivos de Desarrollo Sostenible de la ONU"
   disclaimer-wip: "Este sitio web es un trabajo en progreso"
