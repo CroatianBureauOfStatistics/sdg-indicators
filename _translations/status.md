@@ -5,7 +5,7 @@ en:
   disclaimer-wip: "This site is a work in progress"
   nav-reporting-status : "Stanje izvještavanja"
   nav-statistics : "U.S. Statistics"
-  page-subtitle : "Cjelokupni Stanje izvještavanja"
+  page-subtitle : "Cjelokupno stanje izvještavanja"
   default-text : "Poboljšanje mjera"
   danger-text : "Istraživanje podataka"
   warning-text : "Statistička obrada u tijeku"
