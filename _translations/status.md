@@ -8,7 +8,7 @@ en:
   page-subtitle : "Cjelokupni Stanje izvještavanja"
   default-text : "Poboljšanje mjera"
   danger-text : "Istraživanje podataka"
-  warning-text : "Statistics in progress"
+  warning-text : "Statistička obrada u tijeku"
   success-text : "Reported online"
 es:
   page-title: "Estatus de Datos Disponibles"
