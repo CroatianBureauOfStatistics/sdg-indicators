@@ -63,7 +63,7 @@
                     {% assign indicator = indicator | where:"lang", site.defaults[0].values.lang | first %}
 
                     {% if indicator.un_designated_tier != '3' %}
-                        {% assign indicator_status = "Exploring Data" %}
+                        {% assign indicator_status = "Istraživanje podataka" %}
                         {% assign status_label = "danger" %}
 
                         {% if indicator.source_url != nil AND indicator.source_url != "" %}
