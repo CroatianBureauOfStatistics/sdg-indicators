@@ -63,7 +63,7 @@
             {% assign finalized_percent = finalized_reporting | divided_by:indicators_count | times:100 %}
             {% assign tier3_percent = tier3 | divided_by:indicators_count | times:100 %}
 
-            <h4>{{ t.page-subtitle }} <span class="badge dark-badge">{{ indicators_count | round }} indicators</span></h4>
+            <h4>{{ t.page-subtitle }} <span class="badge dark-badge">{{ indicators_count | round }} indikatora</span></h4>
 
             <div class="container-fluid status-traffic-statbox">
               <div class="col-md-3">
@@ -192,7 +192,7 @@
 
 
                          <div class="media-body">
-<h4>{{ goal.short }} <span class="badge dark-badge">{{ indicators_count }} indicators</span></h4>
+<h4>{{ goal.short }} <span class="badge dark-badge">{{ indicators_count }} indikatora</span></h4>
                             <div class="container-fluid status-traffic-statbox">
                               <div class="col-md-3">
                                 <span class="label label-default">{{ tier3 }}</span> {{ t.default-text }} <br>{{ tier3_percent | round }}%
