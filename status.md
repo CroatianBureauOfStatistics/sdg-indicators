@@ -1,6 +1,6 @@
 ---
 layout: status
-title: Reporting Status
+title: Status izvješćivanja
 permalink: /status/
 ---
 
