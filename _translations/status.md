@@ -9,7 +9,7 @@ en:
   default-text : "Poboljšanje mjera"
   danger-text : "Istraživanje podataka"
   warning-text : "Statistička obrada u tijeku"
-  success-text : "Reported online"
+  success-text : "Objavljeno na internetu"
 es:
   page-title: "Estatus de Datos Disponibles"
   disclaimer-wip: "Este sitio web es un trabajo en progreso"
