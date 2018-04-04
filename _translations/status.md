@@ -1,11 +1,11 @@
 ---
 translation_id: status
 en:
-  page-title: "Reporting Status"
+  page-title: "Status izvješćivanja"
   disclaimer-wip: "This site is a work in progress"
-  nav-reporting-status : "Reporting Status"
+  nav-reporting-status : "Status izvješćivanja"
   nav-statistics : "U.S. Statistics"
-  page-subtitle : "Overall Reporting Status"
+  page-subtitle : "Cjelokupni status izvješćivanja"
   default-text : "Improving measures"
   danger-text : "Exploring data"
   warning-text : "Statistics in progress"
