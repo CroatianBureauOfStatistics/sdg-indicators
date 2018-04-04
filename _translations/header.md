@@ -1,10 +1,10 @@
 ---
 translation_id: header
 en:
-  site-title: "U.S. Indicators For The Sustainable Development Goals"
-  disclaimer-wip: "This site is a work in progress"
-  nav-reporting-status : "Reporting Status"
-  nav-statistics : "U.S. Statistics"
+  site-title: "RH portal indikatora Ciljeva održivog razvoja (SDG)"
+  disclaimer-wip: ""
+  nav-reporting-status : "Status izvješćivanja"
+  nav-statistics : "Indikatori"
  
 es:
   site-title: "Estadísticas Nacionales de USA para los Objetivos de Desarrollo Sostenible de la ONU"
