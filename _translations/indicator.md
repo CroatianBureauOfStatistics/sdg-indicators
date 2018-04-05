@@ -2,14 +2,14 @@
 translation_id: indicator
 en:
   sub-subtitle : "Indikator"
-  tab-instructions : "See metadata tab for sources, definitions, and methodology information"
-  data : "Data"
-  metadata : "Metadata"
+  tab-instructions : "Vidi karticu metapodataka za izvore, definicije i informacije o metodologiji"
+  data : "Podaci"
+  metadata : "Metapodaci"
   us : "U.S."
-  editing : "Edit (Requires Password)"
-  this-table : "This table provides information on metadata for SDG indicators as defined by the United Nations Statistical Commission. Complete global "
-  documentation : "metadata documentation on all indicators in Goal "
-  provided : ", unless otherwise noted, is provided by the UN Statistics Division."
+  editing : "Uredi (Potrebna lozinka)"
+  this-table : "Ova tablica prikazuje metapodatke za pokazatelje održivog razvoja koje je definirala Statistička komisija Ujedinjenih naroda. Cjelokupnu dokumentaciju "
+  documentation : "s globalnim metapodacima za sve pokazatelje u Cilju "
+  provided : ", ako nije drukčije naznačeno, pruža Statistički odjel UN-a."
   available : "This table provides metadata for the actual indicator available from U.S. statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from U.S. statistics, this table should be consulted for information on national methodology and other US-specific metadata information."
 es:
   sub-subtitle : "Indicador"
