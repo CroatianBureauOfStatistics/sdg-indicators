@@ -1,7 +1,7 @@
 ---
 translation_id: indicator
 en:
-  sub-subtitle : "Indicator"
+  sub-subtitle : "Indikator"
   tab-instructions : "See metadata tab for sources, definitions, and methodology information"
   data : "Data"
   metadata : "Metadata"
