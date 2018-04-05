@@ -1,4 +1,4 @@
----
+﻿---
 title: >-
   Participation  rate  in  organized  learning  (one  year  before  the  official  primary  entry  age),  by  sex
 permalink: /4-2-2-wide/
@@ -21,10 +21,10 @@ goal_meta_link: 'http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-
 goal_meta_link_page: 5
 indicator_name: >-
   Participation  rate  in  organized  learning  (one  year  before  the  official  primary  entry  age),  by  sex
-source_title: null
-source_notes: null
 target: >-
   By  2030,  ensure  that  all  girls  and  boys  have  access  to  quality  early  childhood  development,  care  and  pre-primary  education  so  that  they  are  ready  for  primary  education.
+source_title: null
+source_notes: null
 published: true
 actual_indicator_available: >-
   Percentage  of  5  years  olds  enrolled  in  organized  learning  (prekindergarten,  kindergarten,  or  first  or  higher  grade
@@ -44,4 +44,5 @@ source_agency_survey_dataset: >-
 actual_indicator_available_description: "Variable  name  Label  i4_2_2_total\t  Total  i4_2_2_male\t  Male  i4_2_2_female  \tFemale  i4_2_2_q1_low\t  Lowest  quintile  (Q1)  i4_2_2_q2_middle_low\tMiddle  low  quintile  (Q2)  i4_2_2_q3_middle\t  Middle  quintile  (Q3)  i4_2_2_q4_middle_high\tMiddle  high  quintile  (Q4)  i4_2_2_q5_high\t  Highest  quintile  (Q5)"
 graph_title: >-
   Percentage  of  5  years  olds  enrolled  in  prekindergarten,  kindergarten,  or  first  or  higher  grade  in  the  US  
+
 ---

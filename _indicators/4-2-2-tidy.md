@@ -1,5 +1,4 @@
----
-target_id: '4.2'
+﻿---
 title: >-
   Participation  rate  in  organized  learning  (one  year  before  the  official  primary  entry  age),  by  sex
 permalink: /4-2-2-tidy/
@@ -16,6 +15,7 @@ variable_description: null
 variable_notes: null
 un_designated_tier: '1'
 un_custodial_agency: 'UNESCO-UIS  (Partnering  Agencies:  UNICEF,  OECD)'
+target_id: '4.2'
 has_metadata: true
 goal_meta_link: 'http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-4.pdf'
 goal_meta_link_page: 5
@@ -41,7 +41,8 @@ source_agency_staff_email: tom.snyder@ed.gov
 source_url: 'http://nces.ed.gov/programs/digest/d15/tables/dt15_202.20.asp?current=yes'
 source_agency_survey_dataset: >-
   National  Center  for  Education  Statistics  tabulation  of  Census  Bureau  Current  Population  Survey
-actual_indicator_available_description: "Variable  name  Label  i4_2_2_total\t  Total  i4_2_2_male\t  Male  i4_2_2_female  \tFemale  i4_2_2_q1_low\t  Lowest  quintile  (Q1)  i4_2_2_q2_middle_low\tMiddle  low  quintile  (Q2)  i4_2_2_q3_middle\t  Middle  quintile  (Q3)  i4_2_2_q4_middle_high\tMiddle  high  quintile  (Q4)  i4_2_2_q5_high\t  Highest  quintile  (Q5)"
 graph_title: >-
   Percentage  of  5  years  olds  enrolled  in  prekindergarten,  kindergarten,  or  first  or  higher  grade  in  the  US  
+actual_indicator_available_description: "Variable  name  Label  i4_2_2_total\t  Total  i4_2_2_male\t  Male  i4_2_2_female  \tFemale  i4_2_2_q1_low\t  Lowest  quintile  (Q1)  i4_2_2_q2_middle_low\tMiddle  low  quintile  (Q2)  i4_2_2_q3_middle\t  Middle  quintile  (Q3)  i4_2_2_q4_middle_high\tMiddle  high  quintile  (Q4)  i4_2_2_q5_high\t  Highest  quintile  (Q5)"
+
 ---
