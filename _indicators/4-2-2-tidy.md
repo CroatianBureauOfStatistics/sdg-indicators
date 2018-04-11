@@ -8,7 +8,7 @@ indicator: 4.2.2.tidy
 indicator_variable: total
 indicator_variable_2: gender:male
 indicator_variable_3: gender:female
-graph: longitudinal
+null
 graph_type_description: Line  graph
 graph_status_notes: Graphed
 variable_description: null
