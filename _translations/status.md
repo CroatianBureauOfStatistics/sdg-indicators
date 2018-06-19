@@ -6,7 +6,7 @@ en:
   nav-reporting-status : "Stanje izvještavanja"
   nav-statistics : "U.S. Statistics"
   page-subtitle : "Cjelokupno stanje izvještavanja"
-  default-text : "Poboljšanje mjera"
+  default-text : "Potrebno poboljšanje mjerenja"
   danger-text : "Istraživanje podataka"
   warning-text : "Statistička obrada u tijeku"
   success-text : "Objavljeno na internetu"
