@@ -66,7 +66,7 @@
 
 {% for indicator in sdg_indicator %}
   {% assign row = row | push: indicator[page.indicator_variable] %}
-  {% assign labels = labels | push: indicator.year %}
+  {% assign labels = labels | push: indicator.Godina %}
 {% endfor %}
 
 
