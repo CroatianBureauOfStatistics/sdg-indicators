@@ -1,4 +1,14 @@
-year,adolesc_birthrate_per1000wm_10_14yr,adolesc_birthrate_per1000wm_15_19yr
+Godina,Stopa nataliteta na 1000 žena starost 10-14,Stopa nataliteta na 1000 žena starost 15-19
+2000,0.1,15.8
+2001,0.1,15.4
+2002,0.1,14.9
+2003,0,13.9
+2004,0.1,13.6
+2005,0,14
+2006,0,13.7
+2007,0,13.6
+2008,0.1,13.9
+2009,0.1,12.9
 2010,0.1,11.9
 2011,0.1,11.4
 2012,0.1,11.4
@@ -6,3 +16,5 @@ year,adolesc_birthrate_per1000wm_10_14yr,adolesc_birthrate_per1000wm_15_19yr
 2014,0,10.2
 2015,0.1,9.6
 2016,0.1,9.6
+2017,0.1,9.3
+2018,0,8.6
