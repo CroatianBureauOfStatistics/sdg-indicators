@@ -7,7 +7,7 @@ en:
   nav-statistics : "U.S. Statistics"
   page-subtitle : "Cjelokupno stanje izvještavanja"
   default-text : "Potrebno poboljšati istraživanje"
-  danger-text : "Istraživanje podataka"
+  danger-text : "Istraživanje izvora podataka"
   warning-text : "Statistička obrada u tijeku"
   success-text : "Objavljeno na internetu"
 es:
