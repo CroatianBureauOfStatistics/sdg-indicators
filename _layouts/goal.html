@@ -37,11 +37,9 @@
         <div class="usa-grid initiative-description">
           {{ content }}
 
-          {% if page.lang == 'en' %}
+         
               {% assign sdg_indicators = site.data.sdg_indicator_metadata %}
-          {% else %}
-              {% assign sdg_indicators = site.data[page.lang].sdg_indicator_metadata %}
-          {% endif %}
+         
 
          <img src="{{ site.baseurl }}/assets/img/Artboard_2.png" alt="Ažurirano"/><span> = Ažurirano</span>
           <table class="indicator-status-table">
