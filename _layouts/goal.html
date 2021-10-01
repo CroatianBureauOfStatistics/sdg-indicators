@@ -62,7 +62,7 @@
                     {% assign indicator = site.indicators | where:"indicator", indicator_sort.indicator_id %}
                     {% assign indicator = indicator | where:"lang", site.defaults[0].values.lang | first %}
 
-                    {% if indicator.un_designated_tier == '3' %}
+                    {% if indicator.un_designated_tier != '3' %}
                         {% assign indicator_status = "Istraživanje izvora podataka" %}
                         {% assign status_label = "danger" %}
                         
@@ -70,10 +70,10 @@
                           {% assign indicator_status = "Statistička obrada u tijeku" %}
                           {% assign status_label = "warning" %}
 
-                     {% if indicator.graph != nil AND indicator.graph != "" %}
+													{% if indicator.graph != nil AND indicator.graph != "" %}
                             {% assign indicator_status = "Objavljeno na internetu" %}
                             {% assign status_label = "success" %}
-                         {% endif %}
+													{% endif %}
 
                         {% endif %}
                     {% else %}
