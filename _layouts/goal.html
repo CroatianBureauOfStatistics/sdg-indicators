@@ -43,7 +43,7 @@
               {% assign sdg_indicators = site.data[page.lang].sdg_indicator_metadata %}
           {% endif %}
 
-         <img src="{{ site.baseurl }}/assets/img/Artboard_2.png" alt="star"/><span>= Ažurirano</span>
+         <img src="{{ site.baseurl }}/assets/img/Artboard_2.png" alt="Ažurirano"/><span> = Ažurirano</span>
           <table class="indicator-status-table">
             <thead hidden>
               <tr>
@@ -62,7 +62,7 @@
                     {% assign indicator = site.indicators | where:"indicator", indicator_sort.indicator_id %}
                     {% assign indicator = indicator | where:"lang", site.defaults[0].values.lang | first %}
 
-                    {% if indicator.un_designated_tier != '3' %}
+                    {% if indicator.un_designated_tier == '3' %}
                         {% assign indicator_status = "Istraživanje izvora podataka" %}
                         {% assign status_label = "danger" %}
                         
