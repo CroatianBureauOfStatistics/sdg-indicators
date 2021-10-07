@@ -62,33 +62,28 @@
 
 {% assign array = "" | split: ""  %}
 {% assign row = array %}
-{% assign row1 = array %}
-{% assign row2 = array %}
-{% assign row3 = array %}
 {% assign labels = array %}
 
 {% for indicator in sdg_indicator %}
-  {% assign row1 = row1 | push: indicator[page.indicator_variable] %}
-  {% assign row2 = row2 | push: indicator[page.indicator_variable_2] %}
-  {% assign row3 = row3 | push: indicator[page.indicator_variable_3] %}
+  {% assign row = row | push: indicator[page.indicator_variable] %}
   {% assign labels = labels | push: indicator.Godina %}
 {% endfor %}
 
 
 <h3>{{ t.sub-subtitle }} {{ page.indicator }} - {{ indicator_title }}</h3>
 
-{% if page.graph == 'bar' or page.graph == 'longitudinal' %}
+{% if page.graph == 'bar' or page.graph == 'longitudinal' or page.graph == 'binary' %}
 
 {% assign graph_type = page.graph %}
 
 {% if page.graph == 'longitudinal' %}
-  {% assign graph_type = 'line-beta' %}
+  {% assign graph_type = 'line' %}
 {% endif %}
 
 {% assign graph_template = 'components/' | append: graph_type | append: '.html' %}
 
   <h4>{{ page.graph_title }}</h4>
-  {% include {{graph_template}} row1=row1 row2=row2 row3=row3 labels=labels %}
+  {% include {{graph_template}} row=row labels=labels %}
 {% endif %}
 
 {{ page.content }}
@@ -108,7 +103,7 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="data">
 
-      {% if page.graph == 'bar' or page.graph == 'longitudinal' %}
+      {% if page.graph == 'bar' or page.graph == 'longitudinal' or page.graph == 'binary' %}
 
       <div class="datatable-container">
         <h4>{{ page.graph_title }}</h4>
@@ -124,7 +119,7 @@
       </div>
       {% else %}
 
-        <p style="text-align: center;">Kada se popune izvori podataka ovdje ce se prikazati tablica</p>
+        <p style="text-align: center;">Kada se popune izvori podataka ovdje će se prikazati tablica</p>
 
       {% endif %}
 
@@ -176,7 +171,7 @@
 
       </table>
 
-
+<!--
       <h2>{{ t.us }} {{ t.metadata }}</h2>
       <p class="metadata-notes">
         This table provides metadata for the actual indicator available from U.S. statistics closest to the corresponding global 
@@ -198,6 +193,7 @@
         {% endfor %}
 
       </table>
+      -->
       </div>
 
 
@@ -208,9 +204,9 @@
     <div role="tabpanel" class="tab-pane" id="edit">
       <div class="edit-container">
 
-        <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/data/indicator_{{ page.indicator | slugify }}.csv">Uredi podatke</a>
+        <a class="btn btn-primary" href="http://prose.io/#CroatianBureauOfStatistics/sdg-indicators/edit/master/data/indicator_{{ page.indicator | slugify }}.csv">Uredi podatke</a>
 
-        <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/_indicators/{{ page.indicator | slugify }}.md">Uredi metapodatke</a>
+        <a class="btn btn-primary" href="http://prose.io/#CroatianBureauOfStatistics/sdg-indicators/edit/master/_indicators/{{ page.indicator | slugify }}.md">Uredi metapodatke</a>
 
       </div>
     </div>
