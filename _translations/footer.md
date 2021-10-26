@@ -2,7 +2,7 @@
 translation_id: footer
 en:
   about-heading: "O portalu"
-  about-text: "Ova internetska stranica koristi se za koordinaciju nacionalnih aktivnosti razvoja, proizvodnje i diseminacije pokazatelja održivog razvoja Republike Hrvatske. Ciljevi održivog razvoja i definirani pokazatelji za praćenje ostvarenja istih iz UN-ove Agende 2030. za održivi razvoj pružaju novi okvir politike širom svijeta u smjeru okončanja svih oblika siromaštva, borbe protiv nejednakosti i rješavanja klimatskih promjena. Održava ju Državni zavod za statistiku.  [Izjava o pristupačnosti] (https://www.dzs.hr/Hrv/about_us/izjava_o_pristupacnosti.htm)"
+  about-text: "Ova internetska stranica koristi se za koordinaciju nacionalnih aktivnosti razvoja, proizvodnje i diseminacije pokazatelja održivog razvoja Republike Hrvatske. Ciljevi održivog razvoja i definirani pokazatelji za praćenje ostvarenja istih iz UN-ove Agende 2030. za održivi razvoj pružaju novi okvir politike širom svijeta u smjeru okončanja svih oblika siromaštva, borbe protiv nejednakosti i rješavanja klimatskih promjena. Održava ju Državni zavod za statistiku."
   contact-heading: "Kontakt"
   contact-text: "Za pitanja o sadržaju,<br>
   E-pošta: sdg@dzs.hr <br>
