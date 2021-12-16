@@ -38,7 +38,7 @@ date_of_national_source_publication: 'October  Current  Population  Survey,  200
 date_metadata_updated: October  2016
 source_agency_staff_name: Tom  Snyder
 source_agency_staff_email: tom.snyder@ed.gov
-source_url: 'http://nces.ed.gov/programs/digest/d15/tables/dt15_202.20.asp?current=yes'
+source_url: 
 source_agency_survey_dataset: >-
   National  Center  for  Education  Statistics  tabulation  of  Census  Bureau  Current  Population  Survey
 graph_title: null 
