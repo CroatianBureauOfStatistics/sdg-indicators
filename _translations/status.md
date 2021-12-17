@@ -4,7 +4,7 @@ en:
   page-title: "Stanje izvještavanja"
   disclaimer-wip: "This site is a work in progress"
   nav-reporting-status : "Stanje izvještavanja"
-  nav-statistics : "U.S. Statistics"
+  nav-statistics : "Državni zavod za statistiku"
   page-subtitle : "Cjelokupno stanje izvještavanja"
   default-text : "Potrebno poboljšati istraživanje"
   danger-text : "Istraživanje izvora podataka"
