@@ -7,9 +7,9 @@ en:
   metadata : "Metapodaci"
   us : "U.S."
   editing : "Uredi (Potrebna lozinka)"
-  this-table : "Ova tablica prikazuje metapodatke za pokazatelje održivog razvoja koje je definirala Statistička komisija Ujedinjenih naroda. Cjelokupnu dokumentaciju "
-  documentation : "s globalnim metapodacima za sve pokazatelje u Cilju "
-  provided : ", ako nije drukčije naznačeno, pruža Statistički odjel UN-a."
+  this-table : "SDG pokazatelji koji su objavljeni na ovom portalu najbliže odgovaraju globalnim pokazateljima, koje je definirala Statistička komisija Ujedinjenih naroda. UN metapodaci mogu se pronaći na poveznici. "
+  documentation : ""
+  provided : " Osnovne informacije nalaze se u tablici, uključujući i eventualne nacionalne specifičnosti objavljenog pokazatelja."
   available : "This table provides metadata for the actual indicator available from U.S. statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from U.S. statistics, this table should be consulted for information on national methodology and other US-specific metadata information."
 es:
   sub-subtitle : "Indicador"
