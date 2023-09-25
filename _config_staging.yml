@@ -46,17 +46,17 @@ prose:
       - name: "indicator_name"
         field: 
             element: text
-            label: "SDG Indicator Name"
+            label: "Naziv pokazatelja"
             scope: global  
       - name: "target"
         field: 
             element: text
-            label: "SDG Target Addressed"
+            label: "Podcilj"
             scope: global
       - name: "indicator_definition"
         field: 
             element: textarea
-            label: "Definition of SDG Indicator"
+            label: "Definicija pokazatelja"
             scope: global
       - name: "method_of_computation"
         field: 
@@ -65,12 +65,12 @@ prose:
       - name: "un_designated_tier"
         field: 
             element: text
-            label: "UN Designated Tier"
+            label: "Kategorija pokazatelja (UN Tier)"
             scope: global
       - name: "un_custodial_agency"
         field: 
             element: text
-            label: "UN Custodial Agency"
+            label: "Skrbničke agencije"
             scope: global
       - name: "graph_title"
         field: 
