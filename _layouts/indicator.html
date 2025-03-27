@@ -59,6 +59,7 @@
 {% endfor %}
 
 {% assign indicator_title = this_sdg_indicator_metadata.indicator %}
+{% assign indicator_target = this_sdg_indicator_metadata.target %}
 
 {% assign array = "" | split: ""  %}
 {% assign row = array %}
@@ -106,7 +107,7 @@
       {% if page.graph == 'bar' or page.graph == 'longitudinal' or page.graph == 'binary' %}
 
       <div class="datatable-container">
-        <h4>{{ indicator_title }}</h4>
+        <h4>{{ indicator_target }}</h4>
         <div id="datatable"></div>
 
 
