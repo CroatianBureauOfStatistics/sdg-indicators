@@ -1,1 +1,4 @@
-year,i4_2_1learnapp_total,i4_2_1learnapp_male,i4_2_1learnapp_female,i4_2_1learnapp_lowses,i4_2_1learnapp_midses,i4_2_1learnapp_highses,i4_2_1interperson_total,i4_2_1interperson_male,i4_2_1interperson_female,i4_2_1interperson_lowses,i4_2_1interperson_midses,i4_2_1interperson_highses,i4_2_1control_total,i4_2_1control_male,i4_2_1control_female,i4_2_1control_lowses,i4_2_1control_midses,i4_2_1control_highses,i4_2_1reading_total,i4_2_1reading_male,i4_2_1reading_female,i4_2_1reading_lowses,i4_2_1reading_midses,i4_2_1reading_highses,i4_2_1math_total,i4_2_1math_male,i4_2_1math_female,i4_2_1math_lowses,i4_2_1math_midses,i4_2_1math_highses
+Dob,Formalno obrazovanje (0 sati),Formalno obrazovanje (1 - 29 sati),Formalno obrazovanje (30 sati i više)
+Manje od 3 godine,69.8,2.2,28.0
+Od 3 godine do minimalne obvezne dobi za početak školovanja,14.8,23.6,61.5
+1 godina nakon minimalne obvezne dobi od početka školovanja do 12 godina,0.1,52.6,47.2
