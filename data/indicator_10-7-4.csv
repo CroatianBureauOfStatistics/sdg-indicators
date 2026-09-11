@@ -1,11 +1,14 @@
-Godina,Pozitivna prvostupanjska rješenja na milijun stanovnika,Broj tražitelja azila po prvi put na milijun stanovnika
-2015,10,34
-2016,24,524
-2017,37,217
-2018,34,169
-2019,14,320
-2020,10,394
-2021,18,640
-2022,5,690
-2023,12,424
-2024,17,259
+Godina,Pozitivna prvostupanjska rješenja
+"na milijun stanovnika,Broj tražitelja azila po prvi put"
+"na milijun stanovnika,Napomena"
+2015,10,34,
+2016,24,524,
+2017,37,217,
+2018,34,169,
+2019,14,320,
+2020,10,394,
+2021,18,640,
+2022,5,690,
+2023,12,424,
+2024,17,259,
+2025,6,219,Privremeni podaci
